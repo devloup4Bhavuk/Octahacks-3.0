@@ -1,0 +1,39 @@
+form{
+    position: relative;
+    margin-top: 180px;
+}
+.Main-heading{
+    color: whitesmoke;
+    font-size: 50px;
+}
+body{
+    background-color: #E63946;
+    text-align: center;
+}
+#coarse{
+    width: 25vw;
+    height: 40px;
+}
+#semester{
+    width: 25vw;
+    height: 40px;
+}
+.btn-form{
+    border-radius: 25px;
+    border: none;
+    width: 130px;
+    height: 50px;
+    position: relative;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.form-img{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100vw;
+}
+select{
+    font-size: 25px;
+    padding: 5px;
+}
